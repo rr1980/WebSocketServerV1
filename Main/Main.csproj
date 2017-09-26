@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebSocketServerV1\WebSocketServerV1.csproj" />
+  </ItemGroup>
+
 </Project>
