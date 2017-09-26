@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Program.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\WebSocketServerV1\WebSocketServerV1.csproj" />
   </ItemGroup>
 
